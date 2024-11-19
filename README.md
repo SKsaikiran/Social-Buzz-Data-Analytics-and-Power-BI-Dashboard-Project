@@ -26,7 +26,7 @@ The analysis aims to assist Social Buzz in understanding user engagement trends,
 
 ## Project Files  
 ### 1. Python Scripts  
-- **`data_cleaning.py`**:  
+- **`Data Cleaning and Modelling.ipynb`**:  
    - Cleans the raw dataset by handling missing values, removing duplicates, and standardizing formats.
    - Outputs a cleaned dataset ready for analysis.
 
